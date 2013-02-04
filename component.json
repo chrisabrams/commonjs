@@ -1,7 +1,7 @@
 {
   "name": "commonjs",
-  "version": "0.1.0",
-  "main": "./require.js",
+  "version": "0.2.0",
+  "main": "./common.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/chrisabrams/commonjs.git"
