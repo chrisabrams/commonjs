@@ -1,4 +1,6 @@
-# CommonJS for the browser
+# CommonJS for the browser [Deprecated]
+I now use [browserify](https://github.com/substack/node-browserify).
+
 This package is a fork of the [brunch.io](http://brunch.io) use of CommonJS. It was created for projects that desire to use Common JS and be agnostic to any build tools.
 
 ## Usage
